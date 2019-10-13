@@ -9,4 +9,4 @@ Run the following commands on you anaconda prompt to install the required librar
     conda install -c conda-forge kivy
  (WINDOWS)
  
- 
+ Run the map.py file
